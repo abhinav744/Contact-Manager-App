@@ -30,11 +30,6 @@ Frontend (Optional): React.js (if integrated)
 
 📁 Project Structure
 
-bash
-
-Copy
-
-Edit
 
 /Contact-Manager-App-Using-Node.js
 
@@ -64,11 +59,7 @@ Clone the repository
 
 
 
-bash
 
-Copy
-
-Edit
 
 git clone https://github.com/abhinav744/Contact-Manager-App-Using-Node.js.git
 
@@ -77,11 +68,7 @@ cd Contact-Manager-App-Using-Node.js
 Install dependencies
 
 
-bash
 
-Copy
-
-Edit
 
 npm install
 
@@ -92,11 +79,6 @@ Create a .env file in the root directory and add:
 
 
 
-ini
-
-Copy
-
-Edit
 
 PORT=5000
 
@@ -108,11 +90,7 @@ Start the development server
 
 
 
-bash
 
-Copy
-
-Edit
 
 npm start
 

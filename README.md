@@ -1,10 +1,10 @@
-📞 Contact Manager App (Node.js + Express + MongoDB)
+# 📞 Contact Manager App (Node.js + Express + MongoDB)
 
 This is a Node.js-based Contact Manager App that allows users to add, edit, delete, and manage contacts efficiently using a backend API.
 
 
 
-🚀 Features
+## 🚀 Features
 
 📋 RESTful API for managing contacts
 
@@ -16,7 +16,7 @@ This is a Node.js-based Contact Manager App that allows users to add, edit, dele
 
 📱 Responsive API design for frontend integration
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Backend: Node.js, Express.js
 
@@ -28,7 +28,7 @@ Authentication (Optional): JWT, bcrypt
 
 Frontend (Optional): React.js (if integrated)
 
-📁 Project Structure
+## 📁 Project Structure
 
 
 /Contact-Manager-App-Using-Node.js
@@ -53,9 +53,9 @@ Frontend (Optional): React.js (if integrated)
 
 │── README.md           # Documentation
 
-🚀 Installation & Setup
+## 🚀 Installation & Setup
 
-Clone the repository
+### Clone the repository
 
 
 
@@ -65,14 +65,14 @@ git clone https://github.com/abhinav744/Contact-Manager-App-Using-Node.js.git
 
 cd Contact-Manager-App-Using-Node.js
 
-Install dependencies
+### Install dependencies
 
 
 
 
 npm install
 
-Set up environment variables
+### Set up environment variables
 
 
 Create a .env file in the root directory and add:
@@ -86,7 +86,7 @@ MONGO_URI=your_mongodb_connection_string
 
 JWT_SECRET=your_secret_key
 
-Start the development server
+### Start the development server
 
 
 
@@ -98,7 +98,7 @@ The API should now be running at http://localhost:5000/.
 
 
 
-🔧 API Endpoints
+## 🔧 API Endpoints
 
 Method	Endpoint	Description
 
@@ -112,7 +112,7 @@ PUT	/api/contacts/:id	Update a contact
 
 DELETE	/api/contacts/:id	Delete a contact
 
-📌 Contributing
+## 📌 Contributing
 
 Contributions are welcome! Feel free to:
 
